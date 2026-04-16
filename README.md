@@ -1,77 +1,30 @@
-# Hello There !!!
+### Shashank Tyagi
 
-<a href="https://twitter.com/futureshashank">
-  <img align="left" alt="Shashank Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shashank-tyagi/">
-  <img align="left" alt="Shashank's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+Infrastructure Engineer focused on building reliable, scalable systems on AWS. I work across the stack from Terraform modules and Kubernetes clusters to CI/CD pipelines and observability tooling. Most of my day is spent writing Go, Python, and HCL.
 
-![](https://visitor-badge.glitch.me/badge?page_id=shashanktyagi3192.shashanktyagi3192)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-tyagi/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/futureshashank)
+[![Email](https://img.shields.io/badge/email-tyagi3192@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tyagi3192@gmail.com)
 
-<br />
+---
 
-I, Shashank Tyagi, am a passionate DevOps/SRE/Infrastructure Engineer with experience in Python and Golang.
+#### What I work with
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-  
-- 💼 Any freelance work? do reach me over [email](mailto:tyagi3192@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+| Area | Technologies |
+|---|---|
+| **Cloud** | AWS, DigitalOcean |
+| **Containers** | Docker, Kubernetes, Helm |
+| **IaC** | Terraform, HCL |
+| **CI/CD** | GitHub Actions, GitLab CI, ArgoCD |
+| **Languages** | Go, Python, Bash, gRPC |
+| **Observability** | Prometheus, Grafana, InfluxDB |
+| **Data** | PostgreSQL, MongoDB |
+| **OS / Tooling** | Linux, Git, Neovim |
 
-## Handyman's tools
+---
 
- <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
+#### This week
 
-<p float="left">
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/helm.gif"  height="75" />
-  </a>
-    <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/golang.gif"  height="90" />
-  </a>
-
- </p>
-
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/grafana.gif" height="60" />
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/prometheus.gif" height="65" />
-  </a>
-</p>
-
-  
- <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/postgresql.gif" height="90" />
-  </a>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shashanktyagi3192/shashanktyagi3192/master/assets/mongo.gif" height="80" />
-  </a>
-</p>
-
-## 📊 This week I utilized my time on:
 <!--START_SECTION:waka-->
 
 ```text
@@ -82,10 +35,10 @@ Other    4 mins          ▓░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 📈 My Github Stats
+---
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shashanktyagi3192&show_icons=true&theme=gotham" alt="shashanktyagi3192" />
-
-
-
-
+<details>
+<summary>GitHub stats</summary>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=CaptShanks&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&hide_title=true&hide_rank=true" />
+</details>
